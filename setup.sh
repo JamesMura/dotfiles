@@ -1,1 +1,1 @@
-ln -sf ~/shopify-dotfiles/gitconfig ~/.gitconfig
+ln -sf ~/dotfiles/gitconfig ~/.gitconfig
