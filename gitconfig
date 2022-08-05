@@ -1,0 +1,6 @@
+[alias]
+  co = "checkout"
+  pra = "pull --rebase --autostash"
+  ame = "commit --amend --no-edit"
+  poh = "push origin head"
+  st = "status"
