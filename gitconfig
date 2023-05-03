@@ -4,3 +4,4 @@
   ame = "commit --amend --no-edit"
   poh = "push origin head"
   st = "status"
+  frmain = "!git fetch origin main && git rebase origin/main"
